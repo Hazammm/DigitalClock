@@ -1,4 +1,5 @@
 ; Code by Muhammad Hazam Liaqat 
+; Student at Punjab University Jhelum Campus
 ; BSCS-F23-M01
 ; 8086 Assembly, emu8086
 ; Digital Clock - Displays minutes and seconds in ASCII art
