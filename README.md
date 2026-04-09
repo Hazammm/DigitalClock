@@ -1,4 +1,5 @@
 # DigClock — 8086 Assembly Digital Clock
+# Semester Project for COAL
 
 A retro digital clock written in **8086 Assembly** for **emu8086**.  
 Displays the current system **minutes and seconds** as large ASCII art digits.
