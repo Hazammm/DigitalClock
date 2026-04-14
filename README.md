@@ -64,8 +64,7 @@ Col 0     Col 20    Col 40    Col 60
 **Hazam Liaqat** 
 <br>
 BSCS-F23-M01
-<Br>
-Semester Project 
+<br>
 
 ## License
 
