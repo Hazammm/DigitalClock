@@ -71,7 +71,7 @@ BSCS-F23-M01
 MIT License
 ```
 
----
+
 
 ## File 3: `.gitignore`
 ```
