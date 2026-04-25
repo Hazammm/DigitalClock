@@ -18,7 +18,7 @@ Displays the current system **minutes and seconds** as large ASCII art digits.
 ## How to Run
 
 1. Open `src/digclock.asm` in **emu8086**
-2. Click **Emulate**
+2. Click **Emulate** and open it
 3. Watch the live clock display
 
 ## Program Flow
