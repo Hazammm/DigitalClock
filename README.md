@@ -63,8 +63,6 @@ Col 0     Col 20    Col 40    Col 60
 
 **Hazam Liaqat** 
 <br>
-Bscs-F-23-M-01
-<br>
 
 
 ## License
