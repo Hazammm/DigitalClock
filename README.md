@@ -41,7 +41,7 @@ Time changed?
 | `set_digit` | Looks up ASCII art pointer for a digit |
 | `print_digit` | Prints ASCII art to screen at current column |
 | `set_cursor` | Positions cursor using INT 10h |
-| `clear_screen` | Resets video mode to clear screen |
+| `clear_screen` | Resets the video mode to clear screen |
 
 ## Display Layout
 ```
@@ -62,6 +62,8 @@ Col 0     Col 20    Col 40    Col 60
 ## Author
 
 **Hazam Liaqat** 
+<br>
+BSCS-F23-M-01
 <br>
 
 
