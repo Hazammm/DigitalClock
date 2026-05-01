@@ -15,7 +15,7 @@ Displays the current system **minutes and seconds** as large ASCII art digits.
 
 - [emu8086](https://www.emu8086.com/) — 8086 emulator and assembler
 
-## How to Run
+## How to Run it
 
 1. Open `src/digclock.asm` in **emu8086**
 2. Click **Emulate** and open it
